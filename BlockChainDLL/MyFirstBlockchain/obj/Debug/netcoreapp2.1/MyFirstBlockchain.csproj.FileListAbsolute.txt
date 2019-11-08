@@ -1,0 +1,14 @@
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\BlockChainDLL.dll
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.csprojAssemblyReference.cache
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.csproj.CoreCompileInputs.cache
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.AssemblyInfoInputs.cache
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.AssemblyInfo.cs
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\MyFirstBlockchain.deps.json
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\MyFirstBlockchain.runtimeconfig.json
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\MyFirstBlockchain.runtimeconfig.dev.json
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\MyFirstBlockchain.dll
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\MyFirstBlockchain.pdb
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\bin\Debug\netcoreapp2.1\BlockChainDLL.pdb
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.csproj.CopyComplete
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.dll
+C:\Tiago\Console\BlockChainDLL\MyFirstBlockchain\obj\Debug\netcoreapp2.1\MyFirstBlockchain.pdb

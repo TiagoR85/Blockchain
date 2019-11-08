@@ -1,0 +1,9 @@
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.csprojAssemblyReference.cache
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.csproj.CoreCompileInputs.cache
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.AssemblyInfoInputs.cache
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.AssemblyInfo.cs
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\bin\Debug\netcoreapp2.1\BlockChainDLL.deps.json
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\bin\Debug\netcoreapp2.1\BlockChainDLL.dll
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\bin\Debug\netcoreapp2.1\BlockChainDLL.pdb
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.dll
+C:\Tiago\Console\BlockChainDLL\BlockChainDLL\obj\Debug\netcoreapp2.1\BlockChainDLL.pdb
